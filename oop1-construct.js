@@ -26,7 +26,9 @@ example.pieces();
 
 
 /*2. You are exploring the rainforests of the Amazon.  You have observed many different types of wildlife on your excursion.  
-//To jog your memory, some different types of wildlife that you observed are found in the following URL : https://www.ietravel.com/blog/amazon-rainforest-animals-beginners-guide-21-species.  Feel free to use other resources online if you wish.
+//To jog your memory, some different types of wildlife that you observed are found in the following URL :
+// https://www.ietravel.com/blog/amazon-rainforest-animals-beginners-guide-21-species.  
+//Feel free to use other resources online if you wish.
 
 Create a class that can categorize at least 6 of the creatures that you recall observing the Amazon.  
 //Each creature should have 3 unique characteristics, and 2 unique actions that it can do. */
